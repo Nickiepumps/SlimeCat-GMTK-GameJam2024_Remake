@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Manager
+  - Prop
+  - Floor
+  - Vent
+  - DeadZone
+  - Fuse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - EatableObject
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1342173287
+    locked: 0
+  - name: PipeBack
+    uniqueID: 315684349
+    locked: 0
+  - name: TankBack
+    uniqueID: 118034197
+    locked: 0
+  - name: PipeMid
+    uniqueID: 4251185499
+    locked: 0
+  - name: Rail
+    uniqueID: 338527709
+    locked: 0
+  - name: TankMid
+    uniqueID: 3387979959
+    locked: 0
+  - name: PipeFront
+    uniqueID: 1914786155
+    locked: 0
+  - name: TankFront
+    uniqueID: 1681955791
+    locked: 0
+  - name: FuseBox
+    uniqueID: 2123859837
+    locked: 0
+  - name: Water
+    uniqueID: 128491491
+    locked: 0
+  - name: Floor
+    uniqueID: 3256393471
+    locked: 0
+  - name: BGPattern
+    uniqueID: 2506022913
+    locked: 0
+  - name: ElevatorLight
+    uniqueID: 1284291429
+    locked: 0
+  - name: VentBorder
+    uniqueID: 2541698731
+    locked: 0
+  - name: VentBG
+    uniqueID: 2237246335
+    locked: 0
+  - name: Player
+    uniqueID: 2634195431
+    locked: 0
+  - name: Elevator
+    uniqueID: 1461986539
+    locked: 0
+  - name: Light
+    uniqueID: 3608804877
+    locked: 0
